@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.2.0 (2025-01-21)
+
+Full Changelog: [v1.1.0...v1.2.0](https://github.com/tractorbeamai/tractorbeam-python/compare/v1.1.0...v1.2.0)
+
+### Features
+
+* update stainless-augmented openapi spec ([#22](https://github.com/tractorbeamai/tractorbeam-python/issues/22)) ([2132c19](https://github.com/tractorbeamai/tractorbeam-python/commit/2132c190d3ffa1a62788de142d2667875b2c7898))
+
+
+### Bug Fixes
+
+* **tests:** make test_get_platform less flaky ([#20](https://github.com/tractorbeamai/tractorbeam-python/issues/20)) ([74c7f08](https://github.com/tractorbeamai/tractorbeam-python/commit/74c7f081fd8ff54218dfb0049d2e64919ea35b7c))
+
+
+### Chores
+
+* **internal:** avoid pytest-asyncio deprecation warning ([#21](https://github.com/tractorbeamai/tractorbeam-python/issues/21)) ([5bf4bea](https://github.com/tractorbeamai/tractorbeam-python/commit/5bf4bea8ea479e5af585ed5b65d55ce64ff91682))
+* **internal:** codegen related update ([#17](https://github.com/tractorbeamai/tractorbeam-python/issues/17)) ([7b4ec18](https://github.com/tractorbeamai/tractorbeam-python/commit/7b4ec187937f8285e73c42effb3e4705f4fb7ce0))
+
+
+### Documentation
+
+* **raw responses:** fix duplicate `the` ([#19](https://github.com/tractorbeamai/tractorbeam-python/issues/19)) ([0b49f3d](https://github.com/tractorbeamai/tractorbeam-python/commit/0b49f3dcaafc5a6b6a5ce2267c28e99275844fc8))
+
 ## 1.1.0 (2025-01-15)
 
 Full Changelog: [v1.0.0...v1.1.0](https://github.com/tractorbeamai/tractorbeam-python/compare/v1.0.0...v1.1.0)
