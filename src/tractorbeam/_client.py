@@ -78,7 +78,7 @@ class Tractorbeam(SyncAPIClient):
         # part of our public interface in the future.
         _strict_response_validation: bool = False,
     ) -> None:
-        """Construct a new synchronous tractorbeam client instance.
+        """Construct a new synchronous Tractorbeam client instance.
 
         This automatically infers the `api_token` argument from the `TRACTORBEAM_API_TOKEN` environment variable if it is not provided.
         """
@@ -250,7 +250,7 @@ class AsyncTractorbeam(AsyncAPIClient):
         # part of our public interface in the future.
         _strict_response_validation: bool = False,
     ) -> None:
-        """Construct a new async tractorbeam client instance.
+        """Construct a new async AsyncTractorbeam client instance.
 
         This automatically infers the `api_token` argument from the `TRACTORBEAM_API_TOKEN` environment variable if it is not provided.
         """
